@@ -1,0 +1,8 @@
+*.suo
+*.vspscc
+[Bb]in/
+obj/
+_ReSharper*/
+*.user
+*.cache
+*.log
