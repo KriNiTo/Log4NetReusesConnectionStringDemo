@@ -1,8 +1,7 @@
 Shows how to use the standard app.config/web.config for configuring also Log4Net.
 
 Benefit:
-Only one ConnectionString is easier to configure, to transform (deployment), to document 
-- especially if you have a solution with more than one Host (WebService-Host; Unit-Tests; ...)
+Only one ConnectionString is easier to configure, to transform (deployment), to document - especially if you have a solution with more than one Host (WebService-Host; Unit-Tests; ...)
 
 How ToDo:
 Step 1: Create class "CustomLog4NetAdoNetAppender.cs"
